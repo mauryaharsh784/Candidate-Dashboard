@@ -402,33 +402,12 @@ Deploy the generated `dist/` folder.
 
 ---
 
-## ✅ Assignment Coverage
-
-- ✅ 100 Generated Candidates
-- ✅ Dashboard Summary Cards
-- ✅ Debounced Search
-- ✅ Advanced Filtering
-- ✅ Dynamic Sorting
-- ✅ Responsive Candidate Table
-- ✅ Pagination
-- ✅ Candidate Detail Drawer
-- ✅ Assignment Evaluation Panel
-- ✅ Video Evaluation Panel
-- ✅ Automatic Priority Engine
-- ✅ Live Priority Updates
-- ✅ Candidate Comparison Mode
-- ✅ Analytics Dashboard
-- ✅ Loading Skeletons
-- ✅ Empty States
-- ✅ Error Handling
-- ✅ Fully Responsive Design
-- ✅ Context API State Management
-- ✅ Reusable Components
-- ✅ Custom Hooks
-- ✅ Production-Ready Architecture
-
 ---
 
 ## 👨‍💻 Author
 
-Built as a frontend engineering assignment to demonstrate modern React architecture, scalable component design, responsive UI development, reusable state management, and production-quality SaaS dashboard design.
+**Harsh Vardhan Maurya**
+
+Frontend Developer specializing in React, JavaScript, and modern UI development.
+
+This project demonstrates clean architecture, reusable components, responsive design, state management with React Context API, and production-quality frontend engineering practices.

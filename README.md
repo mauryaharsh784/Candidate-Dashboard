@@ -6,6 +6,41 @@ Designed with a modern SaaS interface inspired by **Linear**, **Vercel**, **Noti
 
 ---
 
+<<<<<<< HEAD
+=======
+
+## 📸 Screenshots
+
+
+### Dashboard Overview
+
+![Dashboard](./Screenshots/Dashboard.png)
+
+
+### Candidate Table
+
+![Candidates](./Screenshot/Candidate.png)
+
+
+### Analytics Dashboard
+
+
+![Analytics](./Screenshots/Analytics.png)
+
+---
+
+## 🎥 Demo Video
+
+👉 **Click below to watch the demo:**
+
+
+[▶️ Watch Demo Video](./Screenshots/demo.mp4)
+
+---
+
+
+
+>>>>>>> d0a1ef8 (Update README and add compressed demo video)
 ## ✨ Features
 
 ### 📊 Dashboard Overview
@@ -369,18 +404,7 @@ node scripts/generateCandidates.mjs
 
 ---
 
-## 📸 Screenshots
 
-> Add screenshots after running the project.
-
-- Dashboard Overview
-- Candidate Table
-- Candidate Drawer
-- Assignment Evaluation
-- Comparison Modal
-- Analytics Dashboard
-
----
 
 ## 🌐 Deployment
 

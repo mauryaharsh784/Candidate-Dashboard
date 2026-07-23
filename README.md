@@ -13,9 +13,13 @@ Designed with a modern SaaS interface inspired by **Linear**, **Vercel**, **Noti
 
 ![Dashboard](./Screenshot/Dashboard.png)
 
+---
+
 ### Candidate Table
 
 ![Candidates](./Screenshot/Candidate.png)
+
+----
 
 ### Analytics Dashboard
 

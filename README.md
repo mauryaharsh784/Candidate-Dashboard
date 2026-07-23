@@ -6,11 +6,6 @@ Designed with a modern SaaS interface inspired by **Linear**, **Vercel**, **Noti
 
 ---
 
-## 🌐 Live Demo
-
-🔗 https://your-vercel-link.vercel.app
-
----
 
 ## 📸 Screenshots
 
@@ -24,7 +19,7 @@ Designed with a modern SaaS interface inspired by **Linear**, **Vercel**, **Noti
 
 ### Analytics Dashboard
 
-![Analytics](./Screenshot/Analytics.png)
+![Analytics](./Screenshot/Anylatics.png)
 
 ---
 
